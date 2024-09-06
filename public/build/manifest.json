@@ -1,0 +1,33 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-C1-XIpUa.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-BFbAxXWN.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  },
+  "storage/app/public/app-images/background.jpg": {
+    "file": "assets/background-LKY6EnaP.jpg",
+    "src": "storage/app/public/app-images/background.jpg"
+  },
+  "storage/app/public/app-images/border-bottom.png": {
+    "file": "assets/border-bottom-CjedIAAO.png",
+    "src": "storage/app/public/app-images/border-bottom.png"
+  },
+  "storage/app/public/app-images/border-top.png": {
+    "file": "assets/border-top-loN9jYuy.png",
+    "src": "storage/app/public/app-images/border-top.png"
+  },
+  "storage/app/public/app-images/hint.png": {
+    "file": "assets/hint-Daksk9Gw.png",
+    "src": "storage/app/public/app-images/hint.png"
+  },
+  "storage/app/public/app-images/screen.png": {
+    "file": "assets/screen-Cn9E3Bih.png",
+    "src": "storage/app/public/app-images/screen.png"
+  }
+}
